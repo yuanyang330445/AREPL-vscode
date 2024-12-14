@@ -291,7 +291,7 @@
     "vscode-uri": "^2.1.2"
   },
   "dependencies": {
-    "@vscode/extension-telemetry": "^0.9.7",
+    "@vscode/extension-telemetry": "^0.9.8",
     "arepl-backend": "^3.0.3"
   },
   "bugs": {
